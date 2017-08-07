@@ -1,0 +1,167 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 20.12.2016 09:19:50
+
+newmtl KGROsup
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0353 0.0353 0.0314
+	Kd 0.5098 0.3961 0.2980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka G:\These\blender-models\characters\kangaroo\KGROSUP.jpg
+	map_Kd G:\These\blender-models\characters\kangaroo\KGROSUP.jpg
+	map_bump G:\These\blender-models\characters\kangaroo\KGROSUP.jpg
+	bump G:\These\blender-models\characters\kangaroo\KGROSUP.jpg
+
+newmtl KGROmain
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0353 0.0353 0.0314
+	Kd 0.5098 0.3961 0.2980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka G:\These\blender-models\characters\kangaroo\KGROLAT.jpg
+	map_Kd G:\These\blender-models\characters\kangaroo\KGROLAT.jpg
+	map_bump G:\These\blender-models\characters\kangaroo\KGROLAT.jpg
+	bump G:\These\blender-models\characters\kangaroo\KGROLAT.jpg
+
+newmtl KGRObttm
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0353 0.0353 0.0314
+	Kd 0.5098 0.3961 0.2980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka G:\These\blender-models\characters\kangaroo\KGROBTM.jpg
+	map_Kd G:\These\blender-models\characters\kangaroo\KGROBTM.jpg
+	map_bump G:\These\blender-models\characters\kangaroo\KGROBTM.jpg
+	bump G:\These\blender-models\characters\kangaroo\KGROBTM.jpg
+
+newmtl KGROintr
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0353 0.0353 0.0314
+	Kd 0.5098 0.3961 0.2980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka G:\These\blender-models\characters\kangaroo\KGROINT.jpg
+	map_Kd G:\These\blender-models\characters\kangaroo\KGROINT.jpg
+	map_bump G:\These\blender-models\characters\kangaroo\KGROINT.jpg
+	bump G:\These\blender-models\characters\kangaroo\KGROINT.jpg
+
+newmtl KGROfrt
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0353 0.0353 0.0314
+	Kd 0.5098 0.3961 0.2980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka G:\These\blender-models\characters\kangaroo\KGROFRT.jpg
+	map_Kd G:\These\blender-models\characters\kangaroo\KGROFRT.jpg
+	map_bump G:\These\blender-models\characters\kangaroo\KGROFRT.jpg
+	bump G:\These\blender-models\characters\kangaroo\KGROFRT.jpg
+
+newmtl KGROback
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0353 0.0353 0.0314
+	Kd 0.5098 0.3961 0.2980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka G:\These\blender-models\characters\kangaroo\KGROBACK.jpg
+	map_Kd G:\These\blender-models\characters\kangaroo\KGROBACK.jpg
+	map_bump G:\These\blender-models\characters\kangaroo\KGROBACK.jpg
+	bump G:\These\blender-models\characters\kangaroo\KGROBACK.jpg
+
+newmtl KGROear
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0353 0.0353 0.0314
+	Kd 0.5098 0.3961 0.2980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka G:\These\blender-models\characters\kangaroo\KGROEAR.jpg
+	map_Kd G:\These\blender-models\characters\kangaroo\KGROEAR.jpg
+	map_bump G:\These\blender-models\characters\kangaroo\KGROEAR.jpg
+	bump G:\These\blender-models\characters\kangaroo\KGROEAR.jpg
+
+newmtl KGROeyes
+	Ns 55.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1490 0.0667 0.0275
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl KGROhr01
+	Ns 47.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1000 0.1000 0.1000
+	Kd 0.8667 0.8667 0.8667
+	Ks 0.5618 0.5618 0.5618
+	Ke 0.0000 0.0000 0.0000
+	map_Ka G:\These\blender-models\characters\kangaroo\KGROHAIR.jpg
+	map_Kd G:\These\blender-models\characters\kangaroo\KGROHAIR.jpg
+
+newmtl KGROhr02
+	Ns 37.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1843 0.1765 0.1686
+	Kd 0.6941 0.6039 0.5059
+	Ks 0.5800 0.5527 0.5527
+	Ke 0.0000 0.0000 0.0000
+
+newmtl KGROnail
+	Ns 36.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1000 0.1000 0.1000
+	Kd 0.8667 0.8667 0.8667
+	Ks 0.0872 0.0872 0.0872
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Tex__1_Noise.tga
+	map_Kd Tex__1_Noise.tga
+	map_bump -bm 53.7429 Tex__1_Noise.tga
